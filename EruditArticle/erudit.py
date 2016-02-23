@@ -1,6 +1,7 @@
 import sys
 import inspect
 from lxml import etree
+from lxml import html
 #from tgconsole import console
 
 
@@ -76,12 +77,21 @@ class Element():
         else:
             return None
 
+    def xml(self):
+        if self._treeobj is not None:
+            return etree.tostring(self._treeobj).decode("utf-8")
+        else:
+            return None
+
     def innerxml(self):
         if self._treeobj is not None:
-            string = ""
-            for s in etree.tostring(self._treeobj).decode("utf-8").split("\n")[1:-2]:
-                string += s+"\n"
-            return string
+            # * http://stackoverflow.com/questions/6123351/equivalent-to-innerhtml-when-using-lxml-html-to-parse-html
+            return (self._treeobj.text or '') +\
+              ''.join(\
+                [etree.tostring(child).decode("utf-8")\
+                  for child in self._treeobj.iterchildren()])
+
+
         else:
             return None
 
@@ -91,27 +101,16 @@ class Element():
         else:
             return None
 
-    # def addchild(self, tag):
-    #     self.children()[tag] = Element( _select_element(self, tag)  )
-    #     self.__dict__[tag] = self.children()[tag]
 
     def addchild(self, tag):
-        #self.children()[tag] = Element( _select_element(self, tag)  )
         self.children()[tag] = [ Element(e) for e in _select_element(self, tag) ]
-
         self.__dict__[tag] = self.children()[tag][0]
 
 
-        # * this may fix the problem of many instances of an element
-        # * requires that _select_element returns an iterable of selected instances.
-        # if tag in self.children():
-        #     self.children()[tag].append( Element( _select_element(self, tag)  ) )
-        # else:
-        #     self.children()[tag] = [Element( _select_element(self, tag)  )]
-        #     self.__dict__[tag] = self.children()[tag][0]
 
 
 class Article(Element):
+
     """
     An EruditArticle manager
     """
@@ -142,9 +141,6 @@ class Article(Element):
         if not iserudit3:
             print("Not an EruditArticle datastream!")
             sys.exit()
-
-
-
 
 
         # * Extraction of ERUXDS300 sections
@@ -186,10 +182,16 @@ class Article(Element):
            'titreparal', 'trefbiblio', ])
 
         # * /article/liminaire/grauteur
-        # ! CHECK HERE BECAUSE IT COULD APPEAR MANY auteur's
         self.populatefrom(self.liminaire.grauteur, ['auteur'] )
 
-        # ! ALSO MANY grmotcle coud appear
+        # * /article/liminaire/grmotcle
+        self.populatefrom(self.liminaire.grmotcle, \
+          ['motcle', 'titre', 'titreparal'] )
+
+        self.populatefrom(self.liminaire.grtitre, \
+          [ 'sstitre', 'sstitreparal', 'surtitre', 'surtitre2', 'surtitre3',
+            'surtitreparal', 'surtitreparal2', 'surtitreparal3', 'titre',
+            'titreparal', 'trefbiblio', ] )
 
 
         # * ********** CORPS     ***********************************************
@@ -200,5 +202,20 @@ class Article(Element):
         self.populatefrom(self.partiesann, \
           ['grannexe', 'grbiblio', 'grnote', 'grnotebio', 'merci'])
 
-        #console.log("children", self.children())
-        #console.log( self.children().corps.attr())
+        # * /article/partiesann/grbiblio
+        self.populatefrom(self.partiesann.grbiblio, ['biblio']  )
+
+        # * /article/partiesann/grnote
+        self.populatefrom(self.partiesann.grnote, \
+          [ 'note', 'titre', 'titreparal', ]  )
+
+        # * /article/partiesann/grnotebio
+        self.populatefrom(self.partiesann.grnotebio, \
+          [ 'titre', 'titreparal', 'notebio']  )
+
+        # * /article/partiesann/grannexe
+        self.populatefrom(self.partiesann.grannexe, \
+          [ 'titre', 'titreparal', 'annexe']  )
+
+        # * /article/partiesann/grbiblio/biblio
+        self.populatefrom(self.partiesann.grbiblio.biblio, ['refbiblio']  )

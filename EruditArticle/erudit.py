@@ -19,20 +19,24 @@ class Struct(dict):
 
 
 
-
-
-#class SelectElement():
-
 def _select_element(treeobj, tag):
-    selected = None
+    """ selects the elements with tag 'tag' that article
+        children of the element represented by the object
+        'treeobj'.
+        Returns a list of objtree objects. If there are not
+        selected items, returns a list of the form:
+            [ None ]
+    """
+    selected = []
     if treeobj.objtree() is not None:
         for item in treeobj.objtree().iter():
             if _cleantag(item.tag)  == tag:
-                selected = item
-                break
+                selected.append(item)
 
-    # if selected is None:
-    #     print("Warning: element \"%s\" not found in the datastream. Creating a dummy node." % (tag))
+    if len(selected) == 0:
+        selected.append(None)
+
+
     return selected
 
 
@@ -87,9 +91,16 @@ class Element():
         else:
             return None
 
+    # def addchild(self, tag):
+    #     self.children()[tag] = Element( _select_element(self, tag)  )
+    #     self.__dict__[tag] = self.children()[tag]
+
     def addchild(self, tag):
-        self.children()[tag] = Element( _select_element(self, tag)  )
-        self.__dict__[tag] = self.children()[tag]
+        #self.children()[tag] = Element( _select_element(self, tag)  )
+        self.children()[tag] = [ Element(e) for e in _select_element(self, tag) ]
+
+        self.__dict__[tag] = self.children()[tag][0]
+
 
         # * this may fix the problem of many instances of an element
         # * requires that _select_element returns an iterable of selected instances.

@@ -1,0 +1,395 @@
+<article xmlns="http://www.erudit.org/xsd/article" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" idproprio="017018ar" typeart="article" lang="en" qualtraitement="minimal" xsi:schemaLocation="http://www.erudit.org/xsd/article http://www.erudit.org/xsd/article/2.0.1erudit/eruditarticle.xsd">
+    <admin>
+        <infoarticle>
+            <pagination>
+                <ppage>193</ppage>
+                <dpage>208</dpage>
+            </pagination>
+            <nbpage>16</nbpage>
+            
+            <nbmot>4839</nbmot>
+            <nbfig>0</nbfig>
+            <nbtabl>0</nbtabl>
+            <nbeq>0</nbeq>
+            <nbimage>0</nbimage>
+            <nbaudio>0</nbaudio>
+            <nbvideo>0</nbvideo>
+            <nbrefbiblio>0</nbrefbiblio>
+            <nbnote>0</nbnote>
+        </infoarticle>
+        <revue id="AC80">
+            <titrerev>Acta Criminologica</titrerev>
+            <titrerevabr>AC</titrerevabr>
+            <idissn>0065-1168</idissn>
+            <idissnnum>1718-3243</idissnnum>
+            <directeur sexe="masculin">
+                <nompers>
+                    <prenom>Denis</prenom>
+                    <nomfamille>Szabo</nomfamille>
+                </nompers>
+            </directeur>
+        </revue>
+        <numero id="AC972">
+            <volume>4</volume>
+            <nonumero>1</nonumero>
+            <pub>
+                <periode>Janvier</periode>
+                <annee>1971</annee>
+            </pub>
+            <pubnum>
+                <date>2006-01-19</date>
+            </pubnum>
+            
+        </numero>
+        <editeur id="ed55">
+            <nomorg>Les Presses de l'Université de Montréal</nomorg>
+        </editeur>
+        <prod id="prod55">
+            <nomorg>Les Presses de l'Université de Montréal</nomorg>
+        </prod>
+        <prodnum id="prodnum52">
+            <nomorg>Érudit</nomorg>
+        </prodnum>
+        <diffnum id="diffnum51">
+            <nomorg>Érudit</nomorg>
+        </diffnum>
+        <schema nom="Erudit Article" version="2.0.1erudit" lang="fr"/>
+        <droitsauteur>Tous droits réservés © <nomorg>Les Presses de l'Université de Montréal</nomorg>, 1971</droitsauteur>
+    </admin>
+    <liminaire>
+        <grtitre>
+            <titre>The Cost of Crime and of Social Defence against Crime</titre>
+            <sstitre>Summary of the Second International Symposium in Comparative Criminology. Sainte-Marguerite, April 29<exposant>th </exposant>– May 2<exposant>nd</exposant>, 1970</sstitre>
+        </grtitre>
+        <grauteur>
+            <auteur id="au1">
+                <nompers>
+                    <prenom>
+					</prenom>
+                    <nomfamille>
+					</nomfamille>
+                </nompers>
+            </auteur>
+        </grauteur>
+    </liminaire>
+    <corps>
+        <texte typetexte="roc">
+            <alinea>THE COST OF CRIME AND OF SOCIAL DEFENCE AGAINST CRIME
+</alinea>
+            <alinea>SUMMARY OF THE
+</alinea>
+            <alinea>SECOND INTERNATIONAL SYMPOSIUM IN COMPARATIVE CRIMINOLOGY
+</alinea>
+            <alinea>Sainte-Marguerite, April 29th — May 2nd, 1970
+</alinea>
+            <alinea>CONTENTS
+</alinea>
+            <alinea>Introduction..................................................................................................................    195
+</alinea>
+            <alinea>Work group 1 ............................................................................................................    196
+</alinea>
+            <alinea>Work group 2............................................................................................................    199
+</alinea>
+            <alinea>Work group 3............................................................................................................    201
+</alinea>
+            <alinea>Work group 4............................................................................................................    203
+</alinea>
+            <alinea>List of participants ................................................................................................    205
+</alinea>
+            <alinea>List of responsible for the work groups..........................................    207
+</alinea>
+            <alinea>List of observers......................................................................................................    207
+</alinea>
+            <alinea>INTRODUCTION
+</alinea>
+            <alinea>At the conclusion of the First International Symposium for research in Comparative Criminology in May 1969, a consensus of opinion was reached on the important problems for study in a comparative perspective. With the establishment of the International Centre for Comparative Criminology in June 1969, research was begun on several of these projects.
+</alinea>
+            <alinea>It was decided that annual symposia would be organized to bring together research workers and experts in various frontier problems in criminology and criminal justice. One of these areas concerns new perspectives for evaluating the effectiveness of our social defence system by applying techniques of operations research, cost/benefit analysis and social forecasting to the criminal justice system. Questions of methodology were considered and the second International Symposium was called to develop this theme, forty participants from Europe, the United States, Canada and Mexico taking part, among them experts in criminology, sociology, psychiatry, criminal law, correctional planning, operations research, economics and public administration. Observers from the United Nations and various Canadian, U. S. A. and European government  departments were also present.
+</alinea>
+            <alinea>Particular emphasis was placed on the connection between research done in the universities and institutes and its implementation at the level of government administration in the field of criminal justice.
+</alinea>
+            <alinea>At the opening plenary session, John Martin (U. K.), Alfred Sauvy   (France), Albert  Reiss   (U.  S.  A.)   and  John
+</alinea>
+            <alinea>January 1971
+</alinea>
+            <alinea>196                                                                                                     ACTA CRIMINOLOGICA
+</alinea>
+            <alinea>Edwards (Canada) each presented their thoughts and suggestions on one of the aspects to be considered, and four work groups 1 began their discussions with a consideration of these points. These groups were divided as follows : Group 1. — Chairman : A. Blumstein (U. S. A.); National Accounting, PPBS and Cost/Benefit Analysis in the Administration of Justice.
+</alinea>
+            <alinea>Group 2. .—• Chairman : G. Desrochers (Canada); Evaluation of the Gains and Losses to the National Economy Resulting from Certain Criminal Activities.
+</alinea>
+            <alinea>Group 3. — Chairman : M. Wolfgang (U. S. A.); Social Forecasting in Criminology.
+</alinea>
+            <alinea>Group 4. .— Chairman : P. Cornil (Belgium); The Study of Reform in the Criminal Code in the Perspective of the Cost of Certain Crimes.
+</alinea>
+            <alinea>A final plenary session heard reports by the four chairmen of the work groups who summed up the results of their discussions. The following resume is based on these reports. Their conclusions, as well as an analysis of the discussions, and selected texts related to the subject, will be published by the International Centre for Comparative Criminology 2.
+</alinea>
+            <alinea>It is envisaged that the work of the symposium will be explored further by small seminars in various parts of the world, e. g., the Mediterranean area, Eastern Europe, Latin America, to develop ideas suggested by the work of this symposium, with particular reference to their relevance in each area.
+</alinea>
+            <alinea>WORK GROUP 1
+</alinea>
+            <alinea>CHAIRMAN : A. BLUMSTEIN (U. S. A.)
+</alinea>
+            <alinea>The problem under consideration was how to apply economic techniques to the operation of the criminal justice system viewed as a total system — an input/output process involving institutions and individuals using diverse resources to achieve social goals or outputs. To achieve these goals the
+</alinea>
+            <alinea>1. Responsible  for the work groups were   :   Professor A. E.  Fattah, Professor A. Normandeau, Professor J. Rico and Mrs. A. Parizeau, members of the staff of the Department of Criminology of the University of Montreal and of the International Center for Comparative Criminology.
+</alinea>
+            <alinea>2. Copies  may  be obtained from  the  International Centre  for  Comparative Criminology, P. O. Box 6128, Montreal 101, Canada.
+</alinea>
+            <alinea>2nd INTERNATIONAL SYMPOSIUM IN COMPARATIVE CRIMINOLOGY               197
+</alinea>
+            <alinea>system pays certain costs and suffers certain side effects. As inputs, it uses resources of material, personnel and money and operates in an environment with predetermined variations as well as man-made policies.
+</alinea>
+            <alinea>Goals of the criminal justice system. ¦—¦ To deal with the kinds of analysis implied by PPBS and cost/benefit analysis, the goals of the system have to be dealt with at the outset. Numbers have to be attached to some of these goals in order to measure how well they are being achieved. Once this specification and quantification of output are arrived at, relationships must be developed between the inputs and the outputs.
+</alinea>
+            <alinea>Goals of the criminal justice system were specified as, primarily, a fundamental concern about lessening the threat of crime ; then, the reduction of the hindrances preventing individuals from enjoying the advantages of an urban society ; the possible reaffirming of a « moral order » ; equality of consideration to all who encounter this system ; the negative goal of minimizing the harassment of those innocent of misbehavior — all these to be reached at a reasonably low cost.
+</alinea>
+            <alinea>Measurement of goal performance. — The first requirement is an estimate of victimization rate. Some calibration should be made to distinguish between crimes reported and the larger number which never get to the police. In other •words, a distinction has to be made between trends in crime rates and trends in reporting these rates. — Then there is the notion of criminality rate, which reflects the degree to which people are becoming criminal. .— In addition there should be a means of attaching seriousness weights, for example by using the Wolfgang-Sellin index. — Among important variables to be measured is the intensity of action being taken by the public to protect itself.
+</alinea>
+            <alinea>One measure of the cost of crime control is the budget allocations to the criminal justice agencies. Partition of that budget should reflect costs associated with different functions of that system and different types of crimes. This cost accounting must be not merely by agency, but for the different functions within that agency. It can then be determined whether we are over- or under-spending resources associated with the different kinds of crime. In measuring system performance, ratios can often be more meaningful than absolute numbers, variables over two time periods being of real value.
+</alinea>
+            <alinea>198                                                                                        ACTA CRIMINOLOGICA
+</alinea>
+            <alinea>It was agreed that the overall measure of performance of the system should be the total social cost, including economic and other social cost variables associated with crime and crime control. Here the social costs of crime were viewed essentially as the costs of victimization, the social costs of crime control to include expenditure on the criminal justice system, of erroneous arrest, of conviction by the system. These combined costs ought to be minimized since too little crime control results in too much crime, while too much means we suffer from the control system. A balance should be achieved.
+</alinea>
+            <alinea>Relating outputs to inputs. — Having considered system performance or outputs, the group next considered input, and particularly the relationship between inputs and outputs. Very little is known about the effect on performance measures of the things one might do within the criminal justice system. The economists emphasized strongly that it is impossible to do any meaningful cost/benefit analysis until those relationships are established — that is, we must be able to measure the benefits associated with alternative programs.
+</alinea>
+            <alinea>Developing such relationships is therefore a major need of the criminal justice system. Experiments can be undertaken using scientific experimental controls and is, in fact, now being tried in England and in California, in correctional experiments. For many issues, however, this kind of experimental control is not feasible. Regression analysis will at least indicate correlations, providing a « coefficient of effect » which can then be pursued in more detail in a more careful experiment.
+</alinea>
+            <alinea>In any event, decisions are going to be made even without meaningful cost/benefit analysis, officials applying their judgment in allocating resources. It is essential that this process be accompanied by on-line feedback evaluation so that the consequences are measured. Over a period of time, we will begin to develop better knowledge of the relationships between costs (alternative allocation of input resources) and benefits (consequences in terms of advantages gained or prices paid) associated with various programs.
+</alinea>
+            <alinea>The criminal justice system is, in fact, a group of interconnected, interdependent and mutually affecting institutions. Examination of the consequences of actions and strategies must recognize the impact of changes in one part of the system on the others. To accomplish this, we must have a variety
+</alinea>
+            <alinea>2nd INTERNATIONAL SYMPOSIUM IN COMPARATIVE CRIMINOLOGY               199
+</alinea>
+            <alinea>of models that include cost-accounting schemes and allocation options, and that will display consequences in terms of both the cost accounting and the impact on crime and the other output measures discussed earlier. This must first be done for the system in operation today. Ultimately, we will need to develop relationships between the things we do and their consequences, so that forecasts of the input load on the system and changes in policies are essential.
+</alinea>
+            <alinea>WORK GROUP 2
+</alinea>
+            <alinea>CHAIRMAN : G. DESROCHERS (CANADA)
+</alinea>
+            <alinea>The discussion had two objectives : 1 ) To find out the components which should be taken into account to evaluate or estimate the social cost resulting from criminal activities ; 2) To specify the gains and losses associated with the existence of some given criminal activities. It was divided into two parts accordingly.
+</alinea>
+            <alinea>Economic or social costs related to criminal offences. — There are three categories of such costs : a) The alternative or opportunity cost of scarce resources (time, effort, labour, capital, raw materials) employed by criminals. This does not affect the level of national income insofar as the crime industry is competitive; b) The cost of destroyed goods or assets, whose replacement value represents a reduction of national wealth ; c) The value or costs of economic resources foregone for the public protection (police, corrections, etc.) and the private protection (alarm systems, insurance, etc.) against criminal activities. It should be noted that these are all pecuniary as opposed to intangible costs associated with the probability of victimization.
+</alinea>
+            <alinea>Methods of evaluation. — Here, although there is a lack of pertinent data, some quantitative and some qualitative statements were made, and some problems were raised as to what value could be put on labour engaged in crime, how to measure loss of reputation, etc.
+</alinea>
+            <alinea>Economic criteria and illegal activities. .—• The question was raised of the possible use of economic criteria to define illegal behavior : some legal activities involve economic losses, for example pollution, whereas some illegal ones do not, for example homosexuality.  It did not appear possible  to refer
+</alinea>
+            <alinea>200                                                                                                 ACTA CRIMINOLOGICA
+</alinea>
+            <alinea>to economic principles to decide about the illegal character of an activity, yet the existence of externalities justifies in general the regulation by the State of certain private activities.
+</alinea>
+            <alinea>Gains and losses. — Because of its present importance, the illegal use of narcotics was selected for discussion to illustrate loss because of criminal activities. The question considered was what would be the net loss or benefit to society of making the consumption of narcotics legal. This was discussed by analogy with alcohol and its prohibition.
+</alinea>
+            <alinea>The costs associated with abusive use of narcotics are a) reduced productivity of drug addicts : the loss is clear, but the difficulty lies in the measurement of the loss in production. One participant disagreed that this reduction in productivity should be considered as a loss to the national economy since the drug user himself is the ultimate loser, reducing his consumption of goods but compensating by increased leisure. Absenteeism must be taken into account. Some knowledge of the price elasticity of demand for narcotics is needed to make a factual assessment of losses ; b) the cost of the alternative use of economic resources engaged in the enforcement of the law, medical care for the user, etc. ; c) the costs induced to other persons, for example by way of aggression.
+</alinea>
+            <alinea>Relation between legal and illegal activities. — When illegal activities take over legitimate concerns, e. g., when a crime organization buys a hotel, this must be added to the cost of criminal activities, although it is difficult to decide which figure should be put into the loss column. It is probably impossible to estimate the costs or losses for the economy associated with criminal activities in their entirety. It was suggested that some costs could not be evaluated, but only a rough idea of the scope of additional deterioration society suffers from given criminal activities could be « added » to the quantitative elements of costs.
+</alinea>
+            <alinea>Gambling. — Here the loss to society is measured by the difference between the receipts of the gambling industry and the gains of the winning bettors. That figure represents the amount of economic resources used in the gambling industry and should reflect the true alternative of these resources to society, unless the industry were not competitive. If such were the case, the resources could have been used more efficiently,
+</alinea>
+            <alinea>2nd INTERNATIONAL SYMPOSIUM IN COMPARATIVE CRIMINOLOGY             201
+</alinea>
+            <alinea>and the cost of gambling would be lower than reflected by « net receipts » of gamblers because of the existence of a monopoly rent.
+</alinea>
+            <alinea>The total cost of gambling to society is thus made up of : a ) The alternative or opportunity cost of resources used in that industry ; b ) The resources engaged in the repression of gambling activities ; c) The resources used in concealing these activities (protection money to the police). Reduction in tax receipts due to illegal activities should be considered as a burden even if it involved no reduction in the national income.
+</alinea>
+            <alinea>Gains. —• Some superficial consideration was given to the possible gains society could derive from illegal activities, but they did not seem to be of considerable interest, although not necessarily uniformly unimportant.
+</alinea>
+            <alinea>But in the case of the « economic bads », as illegal activities are, it appeared that the approach used centred on the cost (either redistribution or reduction in total income) associated with the legalization of illegal activities. It therefore followed that the eventual reduction in these costs were the main « gains » to be expected from legalization of prohibited activities.
+</alinea>
+            <alinea>WORK GROUP 3
+</alinea>
+            <alinea>CHAIRMAN : M. WOLFGANG (U. S. A.)
+</alinea>
+            <alinea>A distinction was made between prediction, forecasting and prophecy. Prediction was defined as an effort to make, within the framework of a theory either explicit or implicit, empirical extrapolations about future events that are expected to take place under certain specified conditions. The conditions themselves may have to be part of a forecast, which was held to be a rational method of describing future events that may or may not take place. Prophecy was considered to be speculation about future events based more on intuition than entirely rational procedure.
+</alinea>
+            <alinea>Three major areas were given the main attention : 1 ) Why it is important to forecast ; 2) What measures, methods, techniques are involved in forecasting ; and 3 ) What elements should be included among the priorities of engaging in the task of forecasting.
+</alinea>
+            <alinea>202                                                                                                     ACTA CRIMINOLOGICA
+</alinea>
+            <alinea>It was suggested that it is important because most of our scientific efforts have been reactive, that is crisis resolutions. But it is important to forecast in order to prepare the scientific evidentiary material that can be fed into decision making where the involvement of criminologists is increasing. Forecasting is also a means of providing alternatives in the total system of crime control, prevention, prosecution, administration of justice, and corrections. The question was raised about the desirability and the possibility of retaining the status quo in the operation of the criminal justice system, and if not, what the system should look like in the future.
+</alinea>
+            <alinea>It was thought desirable to examine the attitudes to change held by legislators, political administrators and other decision-control agents in order to be effective in the games of strategy. Therefore, the social and political mood came up, as well as the importance of predicting nonevents, things not likely to happen. Forecasting the absence of dire consequences of a social intervention could be of great use.
+</alinea>
+            <alinea>It was recognized that planning is an engineering problem with practical and applied aspects. Forecasting is a research and researchable item and part of the entire scientific process. It became clear that there is a gap between administrators and researchers, the former looking for relatively immediate payoffs, the latter at the total system within which questions can be answered by examination of interdependent parts.
+</alinea>
+            <alinea>Following discussion of the importance of forecasting, various measurement methods were examined — what should be examined, as well as how to measure. It was suggested that we need to collect the variety of data available in other disciplines and areas of social forecasting, e. g., economic, political, and general social indices available from cross-cultural comparative research already done.
+</alinea>
+            <alinea>It was agreed that individuals should be tracked in the various kinds of criminal activity. Longitudinal or cohort studies were suggested, as well as the need to look at the entire formal social control system in its interrelated parts, and the appropriate measures of the state of the art should be obtained in these particular areas, again taking the total system perspective. Knowledge is needed on victims, criminals, and official reactions of the agencies of control ; on the major decision points in the entire process, from the initiation of a deviant act to the final
+</alinea>
+            <alinea>2nd INTERNATIONAL SYMPOSIUM IN COMPARATIVE CRIMINOLOGY             203
+</alinea>
+            <alinea>resolution of that act. Here institutionalization of the process of monitoring the decision points is essential. Without this, it is not possible to make the kinds of forecasts about changes in the system, or how they will occur, if there is any intervention at any point. Sample data is enough, but the major problem is that of assessing the samples available for the purpose of forecasting. Some specifics were indicated : cost/benefit analysis ; regression analysis ; co-variance analysis ; structural non-etiological models, open-forecasting models. Two good examples from France and Mexico were given of a kind of macrometric analysis which involves a host of variables in a style similar to that done in econometrics.
+</alinea>
+            <alinea>The group then tried to combine the importance of forecasting with methods of forecasting. It became apparent that there is a distinction between criminologists who are in decision-making positions within the criminal justice system, and those who are not. The roles of the administrator, the clinician, the dispassionate social observer, the datasource role, the compara-tivist role, and that of the intelligent criminal were all examined and some dimensions of the problems of measurement in forecasting and of the items desirable became a little clearer.
+</alinea>
+            <alinea>Discussion proceeded to various kinds of broad social changes occurring in society, since many items have to be considered in trying to forecast what the planning of, say, a police commissioner's activities or of legal changes, etc., should be. It was not possible to arrive at priorities about forecasting, whether to consider the « urgent » problems regardless of the state of the forecasting tools, or to give priority to problems for which we now have the techniques. One priority, however, was agreed upon : cross-cultural comparisons in order to examine variants in social development.
+</alinea>
+            <alinea>WORK GROUP 4
+</alinea>
+            <alinea>CHAIRMAN : P. CORNIL (BELGIUM)
+</alinea>
+            <alinea>Four main points were discussed :
+</alinea>
+            <alinea>1 ) It was immediately discovered that from the legislative angle, the economic point of view was not sufficient, partly because the group found it impossible to translate our values into economic data, partly because legislators have not been moved by the techniques  of the economists and have  been
+</alinea>
+            <alinea>204                                                                                                     ACTA CRIMINOLOGICA
+</alinea>
+            <alinea>satisfied when they voted the budget without using the new techniques of budgeting.
+</alinea>
+            <alinea>2)   It is impossible to envisage the total suppression of crime. If, for example, we were to try to suppress theft completely, it would involve a cost higher than the value of the thefts themselves.
+</alinea>
+            <alinea>3)   The problem of decriminalization was considered  at length. A distinction was made between decriminalization and depenalization.
+</alinea>
+            <alinea>4)   An attempt was made to establish general attitudes, and here the group ran into difficulties. A very general point was raised — to try to define the aims of criminal justice. It was agreed that criminal law aims to protect both society and the   delinquent.   A   second   point   brought   forward   was   that criminal law could be linked with economics because crime may be considered as a product, and the fight against criminality would be an effort to absorb, to eliminate, this negative produce.
+</alinea>
+            <alinea>Classical criminal law is a process of elimination, e. g., the death penalty ; even prison is provisionally eliminating. From elimination we deduce the policy of decriminalization, one aspect of which is seen in the fact that the authorities in contact with criminals are gradually eliminating cases which do not seem of sufficient value to be prosecuted. Legal procedure was considered as being a conflict between the wish for efficiency and the wish to respect general principles, preventive detention being a case in point.
+</alinea>
+            <alinea>One participant made a strong statement that decriminalization was sometimes productive of crime, and gave as an example the fact that treatment of delinquent minors by non-repressive measures which may not be good ones, often results in the augmentation of crime and delinquency. ^- Traffic offences were then considered, and it was suggested that when we criminalize these we are exaggerating the impact of repressive methods, the domain of criminality being expanded as more crimes of this kind are created.
+</alinea>
+            <alinea>This led the group to try to define decriminalization and its opposite, criminalization, and also what we call depenalization. Two approaches were discussed, the clinical, preventive approach which can be effective when gone into at many levels ; and the second approach which considered the criminal acts and not the criminal himself.
+</alinea>
+            <alinea>2nd INTERNATIONAL SYMPOSIUM IN COMPARATIVE CRIMINOLOGY               205
+</alinea>
+            <alinea>Social change is reflected generally through the creation of new legislation. This is translated into fact by pressure groups and lobbying in the legislative assemblies on legislation under consideration. In the future, it was suggested that legislation should take into account studies on cost/benefit analysis and operations research on criminal procedure, always considering the large context nationally and internationally. This supposes the construction of socioeconomic matrices with several dimensions on which, however, the group did not achieve unanimity, particularly since there is not available enough quantitative data to carry the arguments.
+</alinea>
+            <alinea>This procedure may be described dynamically and should be placed within a process which goes both ways .— toward criminalization and toward decriminalization. Value options in a given culture are the driving element which puts legislation on the move toward one of the extreme positions of this process, and sometimes in a rather contradictory way. This group felt that the process should be motivated by a deep evaluation of complex factors of a social and economic nature which influence the implementation of the goal envisaged.
+</alinea>
+            <alinea>The decision to criminalize is a process by which we understand the insertion into the law of certain forms of behaviour. The decision to decriminalize is the process by which we remove from the code certain forms of behaviour. The process of depenalization, on the other hand, is the substitution of other measures for penal sanctions. The latter can learn much from alternatives suggested by methods used in industry, commerce, technology and the social sciences. As far as possible, these studies should be made freely, without being bound by the present organization of criminal justice. Two examples were discussed in this context —¦ the problem of drugs and that of pollution.
+</alinea>
+            <alinea>LIST OF PARTICIPANTS
+</alinea>
+            <alinea>Blumstein, A., Professor, School of Urban and Public Affairs, Carnegie-Mellon University, Pittsburgh  (Pennsylvania), U. S. A.
+</alinea>
+            <alinea>Bonin, B., directeur-adjoint, Institut d'économie appliquée, Ecole des Hautes Etudes commerciales, Montréal, Canada.
+</alinea>
+            <alinea>Bouzat, P., doyen, Faculté de droit et des sciences économiques, Université de Rennes, France ; président, Association internationale de droit pénal, Paris, France.
+</alinea>
+            <alinea>206                                                                                        ACTA CRIMINOLOGICA
+</alinea>
+            <alinea>Christiansen, K. O., Director, Institute of Criminal Science, University of Copenhagen, Copenhagen, Denmark.
+</alinea>
+            <alinea>Christie, N., Professor of Criminology, Institute of Criminology and Criminal Law, University of Oslo, Oslo, Norway.
+</alinea>
+            <alinea>ClALE, J., chef, Recherche correctionnelle, ministère du Solliciteur général, Ottawa, Canada.
+</alinea>
+            <alinea>Cornil, P., professeur, Faculté de droit, Université libre de Bruxelles, Bruxelles, Belgique.
+</alinea>
+            <alinea>Desrochers, G., professeur, Département des sciences économiques, Université de Montréal, Montréal, Canada.
+</alinea>
+            <alinea>Edwards, J., Director, Center of Criminology, University of Toronto, Toronto, Canada.
+</alinea>
+            <alinea>Ehrlich, I., Professor, Graduate School of Business, University of Chicago, Chicago (Illinois), U. S. A.
+</alinea>
+            <alinea>Ellenbf.rger, H. F., professeur, Département de criminologie, Université de Montréal, Montréal, Canada.
+</alinea>
+            <alinea>Ferracuti, F., Professor of Criminology, Faculty of Law, University of Rome, Rome, Italy.
+</alinea>
+            <alinea>Gibbens, T. C. N., Professor of Forensic Psychiatry, Institute of Psychiatry, University of London, London, Great Britain.
+</alinea>
+            <alinea>Grygier, T., directeur, Centre de criminologie, Université d'Ottawa, Ottawa, Canada.
+</alinea>
+            <alinea>GuÉRiN, G., juge ; président de la Société de criminologie de Québec, Montréal, Canada.
+</alinea>
+            <alinea>Hann, R., Research Associate, Center of Criminology, University of Toronto, Toronto, Canada.
+</alinea>
+            <alinea>Hayes, F. O'R., Director, Bureau of the Budget, New York (N. Y.), U. S. A.
+</alinea>
+            <alinea>Lejins, P. P., Director, Institute of Criminal Justice and Criminology, University of Maryland, College Park  (Maryland), U. S. A.
+</alinea>
+            <alinea>Lorit, J.-F., inspecteur-adjoint de l'administration au ministère de l'Intérieur, Paris, France.
+</alinea>
+            <alinea>Mailloux, R. P. N., directeur, Institut de psychologie, Université de Montréal, Montréal, Canada.
+</alinea>
+            <alinea>Martin, J. P., Professor of Sociology and Social Administration, University of Southampton, United Kingdom.
+</alinea>
+            <alinea>Mueller, G. O. W., Director, Criminal Law Education and Research Center, New York University School of Law, New York (N. Y.), U. S. A.
+</alinea>
+            <alinea>Ohlin, L. E., Professor of Criminology, Harvard Law School, Harvard University, Cambridge (Mass.), U. S. A.
+</alinea>
+            <alinea>Pace, C, Director, Institute of Economy and Finance, University of Bari, Bari, Italy.
+</alinea>
+            <alinea>Pinatel, J., président, Commission scientifique, Société internationale de criminologie, Paris, France.
+</alinea>
+            <alinea>Quiroz Cuaron, A., Professor of Criminology, Faculty of Law, University of Mexico, Mexico City, Mexico.
+</alinea>
+            <alinea>Ramirez, S. G., Director, Centro penitenciario del Estado de Mexico, Insti-tuto de investigaciones juridicas,  Mexico  City,  Mexico.
+</alinea>
+            <alinea>Rector, M. G., Director, National Council on Crime and Delinquency, New York (N. Y.), U. S. A.
+</alinea>
+            <alinea>2nd INTERNATIONAL SYMPOSIUM IN COMPARATIVE CRIMINOLOGY            207
+</alinea>
+            <alinea>Reiss, Jr., A. J., Chairman, Department of Sociology, University of Michigan, Ann Arbor (Michigan), II. S. A.
+</alinea>
+            <alinea>Robert, P., chef de service, Service d'études pénales et criminologiques, Ministère de la Justice, Paris, France.
+</alinea>
+            <alinea>Rottenberg, S., Professor, Department of Economies, Duke University, Durham (North Carolina), U. S. A.
+</alinea>
+            <alinea>Sauvy, A., professeur au Collège de France ; ancien directeur, Institut national d'études démographiques, Paris, France.
+</alinea>
+            <alinea>Smith, R. L., Chief, Correctional Program Planning and Development, Department of the California Youth Authority, Sacramento (California) , U. S. A.
+</alinea>
+            <alinea>Szabo, D., directeur, Département de criminologie, Université de Montréal, Montréal, Canada.
+</alinea>
+            <alinea>Szalai, A., Deputy Director of Research, unitar, United Nations, New York (N. Y.), U.S. A.
+</alinea>
+            <alinea>ThÙR, O., vice-président, Conseil économique du Canada, Ottawa, Canada.
+</alinea>
+            <alinea>Wheeler, S., Professor of Sociology, Yale University, New Haven (Conn.); Research Program, Russell Sage Foundation, New York (N. Y.),U. S. A.
+</alinea>
+            <alinea>Wilkins, L. T., Professor of Criminology, School of Criminal Justice, State University of New York, Albany  (N. Y.), U. S. A.
+</alinea>
+            <alinea>Wolfgang, M., Director, Center for Studies in Criminology and Criminal Law ; Chairman, Department of Sociology, University of Pennsylvania (Pennsylvania), U. S. A.
+</alinea>
+            <alinea>LIST OF RESPONSIBLE FOR THE WORK GROUPS
+</alinea>
+            <alinea>Fattah,   E.   A.,   professeur,   Département   de   criminologie,   Université   de Montréal, Montréal, Canada.
+</alinea>
+            <alinea>NoRMANDEAU,  A., professeur,  Département de criminologie,  Université  de Montréal, Montréal, Canada.
+</alinea>
+            <alinea>Parizeau,   A.,   Centre  international  de   criminologie   comparée,   Montréal, Canada.
+</alinea>
+            <alinea>Rico, J. M., professeur, Département de criminologie, Université de Montréal, Montréal, Canada.
+</alinea>
+            <alinea>LIST OF OBSERVERS
+</alinea>
+            <alinea>Canada
+</alinea>
+            <alinea>Comité canadien de la réforme pénale et correctionnelle, Ottawa : Honorable Roger Ouimet, président, juge de la Cour supérieure.
+</alinea>
+            <alinea>Institut Philippe-Pinel, Montréal : Dr Lionel Béliveau, surintendant des services psychiatriques.
+</alinea>
+            <alinea>La Police, Montréal : Guy Tardif, chargé d'études et de planification.
+</alinea>
+            <alinea>Ministère de la Santé, de la Famille et du Bien-être social, Direction générale de la planification et de la recherche, Québec : Gilles Beausoleil, directeur général.
+</alinea>
+            <alinea>Ministère de la Justice, Département du ministre de la Justice et du procureur général du Canada, Ottawa : Roch Jolicceur.
+</alinea>
+            <alinea>University of Ottawa, Ottawa : L. Kos-Rabcewicz-Zubkowski.
+</alinea>
+            <alinea>208                                                                                        ACTA CRIMINOLOGICA
+</alinea>
+            <alinea>United States of America
+</alinea>
+            <alinea>Council on Legal Education for Professional Responsibility, Inc., New York : William Pincus, President.
+</alinea>
+            <alinea>Department of Justice, National Institute of Law Enforcement and Criminal Justice, Washington  (D. C.)   : Irving Slott, Deputy Director.
+</alinea>
+            <alinea>The Ford Foundation, Division of National Affairs, New York : Christopher F. Edley, Program Officer in Charge ; Fritza Bullwinkel, Administrative Assistant to Christopher F. Edley.
+</alinea>
+            <alinea>Howard University, Department of Sociology : Gloria Van Manen.
+</alinea>
+            <alinea>The Rand Corporation, New York : Dr. Bernard Cohen, Professor, Department of Sociology, Queen's College, New York.
+</alinea>
+            <alinea>United Nations, Section of Social Defence : Minoru Shikita, Officer in Charge.
+</alinea>
+            <alinea>Mexico
+</alinea>
+            <alinea>Raul Quiroz Cuaron, Consulting Engineer, Mexico City, Mexico.
+</alinea>
+            <alinea>
+			</alinea>
+        </texte>
+    </corps>
+</article>
